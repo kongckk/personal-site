@@ -53,7 +53,7 @@ export const site = {
   nav: [
     { label: "Agenda", href: "#agenda" },
     { label: "About", href: "#about" },
-    { label: "Finance news", href: "#finance-news" },
+    { label: "FT top story", href: "#ft-story" },
     { label: "Skills", href: "#skills" },
     { label: "Contact", href: "#contact" },
   ],

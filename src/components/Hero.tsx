@@ -45,10 +45,10 @@ export function Hero() {
             Get in touch
           </a>
           <a
-            href="#finance-news"
+            href="#ft-story"
             className="inline-flex items-center justify-center rounded-full border border-line bg-canvas px-5 py-2.5 text-sm font-medium text-ink transition hover:border-ink/20 hover:bg-surface focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent"
           >
-            Today in finance
+            FT top story
           </a>
         </div>
       </div>
