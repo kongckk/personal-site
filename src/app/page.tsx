@@ -2,7 +2,7 @@ import { Header } from "@/components/Header";
 import { Hero } from "@/components/Hero";
 import { Agenda } from "@/components/Agenda";
 import { About } from "@/components/About";
-import { Experience } from "@/components/Experience";
+import { FinanceNews } from "@/components/FinanceNews";
 import { Skills } from "@/components/Skills";
 import { Contact } from "@/components/Contact";
 import { Footer } from "@/components/Footer";
@@ -21,7 +21,7 @@ export default function Home() {
         <Hero />
         <Agenda />
         <About />
-        <Experience />
+        <FinanceNews />
         <Skills />
         <Contact />
       </main>
