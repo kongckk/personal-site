@@ -88,6 +88,7 @@ export const site = {
   },
 
   nav: [
+    { label: "Agenda", href: "#agenda" },
     { label: "About", href: "#about" },
     { label: "Experience", href: "#experience" },
     { label: "Skills", href: "#skills" },

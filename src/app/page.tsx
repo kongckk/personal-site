@@ -1,5 +1,6 @@
 import { Header } from "@/components/Header";
 import { Hero } from "@/components/Hero";
+import { Agenda } from "@/components/Agenda";
 import { About } from "@/components/About";
 import { Experience } from "@/components/Experience";
 import { Skills } from "@/components/Skills";
@@ -18,6 +19,7 @@ export default function Home() {
       <Header />
       <main id="main" className="flex-1">
         <Hero />
+        <Agenda />
         <About />
         <Experience />
         <Skills />
