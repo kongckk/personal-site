@@ -2,19 +2,20 @@ export const ftTopStory = {
   heading: "FT top story",
   source: "Financial Times",
   headline:
-    "UK failing to capitalise on Brexit, top Trump trade official says",
+    "Far-right AfD surges to first place in German state elections",
   standfirst:
-    "Jamieson Greer says Britain’s alignment with EU is a ‘problem’ for a US trade deal",
-  authors: "Aime Williams (Washington) and Peter Foster (London)",
-  dateLabel: "4 September 2026",
-  url: "https://www.ft.com/content/0d2beac3-ef62-4cbf-959e-b5c6b9703081",
+    "Alternative for Germany is projected to become the largest party in Saxony-Anhalt but fall short of a parliamentary majority",
+  authors:
+    "Anne-Sylvaine Chassany in Berlin and Laura Pitel in Magdeburg (additional reporting by James Politi)",
+  dateLabel: "6 September 2026",
+  url: "https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd",
   summary:
-    "US Trade Representative Jamieson Greer says the UK is prioritising closer alignment with Brussels rather than exploiting Brexit to accept US standards and goods, complicating efforts to expand the bilateral trade deal. Britain’s planned EU reset would remove food-export border checks but require compliance with EU standards, potentially excluding products such as chlorine-washed chicken and hormone-treated beef from the US. The existing US-UK agreement reduced some tariffs and granted concessions on beef, ethanol, pharmaceuticals and medical technology, but most British goods still face a 10% US tariff and metals a 25% national-security tariff. Broader negotiations have stalled, especially over agriculture, industrial standards and UK tariffs on US goods. The dispute comes amid wider Trump tariff tensions, higher energy prices and global bond-market volatility.",
+    "The far-right Alternative for Germany (AfD) is projected to win a record 44% in Saxony-Anhalt’s state election, more than double its 20.8% in 2021, with turnout above 75%. It is likely to fall just short of an absolute majority, but an AfD-led parliament or coalition would be unprecedented in postwar Germany. Chancellor Friedrich Merz’s CDU posted its worst result in the state since reunification at under 18%, while the Left, Social Democrats and Greens each hover near 9% and Sahra Wagenknecht’s BSW sits near the 5% threshold. The outcome weakens the established parties’ cordon sanitaire against the AfD and fuels concerns about Germany’s resilience to Russia-friendly, Eurosceptic populism, with Donald Trump highlighting the result and JD Vance criticising the AfD’s exclusion. Coalition talks look fraught: the AfD’s Ulrich Siegmund has ruled out alliances, the CDU rejects deals with both the AfD and the Left, and the BSW may only offer issue-by-issue support. The result is expected to strengthen the AfD nationally ahead of elections in Berlin and Mecklenburg-Vorpommern, with Saxony-Anhalt’s parliament due to convene within 30 days.",
   implications: [
-    "UK businesses may face a strategic choice between smoother EU trade and greater US market access, with dual-standard compliance increasing complexity.",
-    "The unresolved US tariff regime leaves exporters exposed to elevated costs and continued policy uncertainty.",
-    "Agriculture, food, autos, chemicals, metals and pharmaceuticals are particularly sensitive to standards and tariff decisions.",
-    "Ongoing trade escalation could weigh on investment and financing conditions through energy-price and bond-market volatility.",
+    "Political fragmentation in Germany’s east raises governance and policy-stability risk for investors and corporates with German exposure.",
+    "A stronger AfD nationally could complicate EU cohesion, fiscal coordination, and Germany’s stance on Russia and energy security.",
+    "Prolonged coalition uncertainty in Saxony-Anhalt may delay state-level decisions on industrial, infrastructure, and fiscal priorities.",
+    "Markets may price higher political-risk premia for German assets if populist momentum spills into Berlin and Mecklenburg-Vorpommern contests.",
   ],
 } as const;
 
