@@ -2,20 +2,19 @@ export const ftTopStory = {
   heading: "FT top story",
   source: "Financial Times",
   headline:
-    "Far-right AfD surges to first place in German state elections",
+    "Republicans fear Trump has turned toxic on the campaign trail",
   standfirst:
-    "Alternative for Germany is projected to become the largest party in Saxony-Anhalt but fall short of a parliamentary majority",
-  authors:
-    "Anne-Sylvaine Chassany in Berlin and Laura Pitel in Magdeburg (additional reporting by James Politi)",
-  dateLabel: "6 September 2026",
-  url: "https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd",
+    "Some party candidates worry the president’s low popularity and inflammatory rhetoric will cost them November’s election",
+  authors: "James Politi in Washington",
+  dateLabel: "7 September 2026",
+  url: "https://www.ft.com/content/3edf3717-4737-424c-9162-d330851edcf6",
   summary:
-    "The far-right Alternative for Germany (AfD) is projected to win a record 44% in Saxony-Anhalt’s state election, more than double its 20.8% in 2021, with turnout above 75%. It is likely to fall just short of an absolute majority, but an AfD-led parliament or coalition would be unprecedented in postwar Germany. Chancellor Friedrich Merz’s CDU posted its worst result in the state since reunification at under 18%, while the Left, Social Democrats and Greens each hover near 9% and Sahra Wagenknecht’s BSW sits near the 5% threshold. The outcome weakens the established parties’ cordon sanitaire against the AfD and fuels concerns about Germany’s resilience to Russia-friendly, Eurosceptic populism, with Donald Trump highlighting the result and JD Vance criticising the AfD’s exclusion. Coalition talks look fraught: the AfD’s Ulrich Siegmund has ruled out alliances, the CDU rejects deals with both the AfD and the Left, and the BSW may only offer issue-by-issue support. The result is expected to strengthen the AfD nationally ahead of elections in Berlin and Mecklenburg-Vorpommern, with Saxony-Anhalt’s parliament due to convene within 30 days.",
+    "Senior Republicans fear Donald Trump is undermining their midterm prospects by dismissing voter concerns on affordability, the prolonged Iran war, and local opposition to AI data centres while campaigning for himself. With his approval ratings at new lows two months before November, forecasters increasingly expect Democrats to take the House and possibly the Senate. Trump called the six-month Iran conflict’s economic fallout “small potatoes,” drawing pushback from vulnerable Republicans such as Mike Lawler, while an NBC survey found 69% of Americans oppose data centres in their area. Maga Inc’s $400mn-plus war chest has only recently begun to open—including a planned $10mn for Ken Paxton—leaving many candidates unsure of timely help, and some battleground incumbents are skipping this week’s Dallas midterm convention. Party strategists still see Trump as uniquely able to drive Republican turnout, but warn that swing voters dislike his personal aggrandisement and that candidates who criticise him risk losing his financial support.",
   implications: [
-    "Political fragmentation in Germany’s east raises governance and policy-stability risk for investors and corporates with German exposure.",
-    "A stronger AfD nationally could complicate EU cohesion, fiscal coordination, and Germany’s stance on Russia and energy security.",
-    "Prolonged coalition uncertainty in Saxony-Anhalt may delay state-level decisions on industrial, infrastructure, and fiscal priorities.",
-    "Markets may price higher political-risk premia for German assets if populist momentum spills into Berlin and Mecklenburg-Vorpommern contests.",
+    "A Democratic House (and possibly Senate) would raise US policy-gridlock risk for tax, spending, trade, and regulatory agendas relevant to Ops & Finance planning.",
+    "Prolonged Iran-war and energy-price pressure keeps inflation and household affordability as live midterm and market themes into November.",
+    "Local backlash against AI data centres may slow permitting and capex timelines for hyperscale infrastructure in contested districts.",
+    "Uneven Maga Inc spending and candidate distancing from Trump increase uncertainty around Republican turnout, fundraising, and late-cycle volatility.",
   ],
 } as const;
 
