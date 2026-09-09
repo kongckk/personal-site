@@ -2,20 +2,19 @@ export const ftTopStory = {
   heading: "FT top story",
   source: "Financial Times",
   headline:
-    "Oil nears $100 as US launches new strikes on Iranian tankers",
+    "Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors",
   standfirst:
-    "American military hit ‘multiple’ ships linked to Iran’s Revolutionary Guards in response to more attempted missile attacks on a US Navy warship",
-  authors:
-    "Steff Chávez in Washington; Najmeh Bozorgmehr in Tehran; Jamie Smyth in New York; Verity Ratcliffe in London",
+    "10-year borrowing costs hit highest level in nearly three years despite upsized repurchase programme",
+  authors: "Kate Duguid; George Steer; Myles McCormick",
   dateLabel: "9 September 2026",
-  url: "https://www.ft.com/content/b460b828-6183-4914-9140-5dfb6d61312c",
+  url: "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab",
   summary:
-    "Brent crude jumped 2.4% to $99.34 a barrel after the US struck multiple Iranian tankers tied to the Revolutionary Guards and Houthi militants hit Saudi energy infrastructure, marking a fresh Middle East escalation. Washington said the tanker strikes answered further attempted missile attacks on a US Navy warship, following weekend hits on three Iranian crude tankers after Tehran targeted two American ships. Oil has rallied since late August amid repeated US–Iran exchanges; Brent had peaked near $126 in April and fallen as low as $70 in July, while Houthi attacks on regional energy assets have tightened supply, fed global inflation, and helped spark a major bond-market sell-off. Iran has increasingly targeted vessels moving Gulf oil past the Strait of Hormuz, with the IRGC attacking at least four tankers since August 30, and Riyadh reported temporary operational halts after Houthi strikes on facilities in four southern Saudi cities. Analysts are lifting crude forecasts through 2027 as disruption persists; Eurasia Group warned recovering Chinese demand plus the Middle East standoff could soon push oil above $100, citing the US–Iran conflict, Saudi–Houthi confrontation, and Russia–Ukraine as the main upward forces.",
+    "US Treasury yields climbed toward three-year highs after Treasury Secretary Scott Bessent unveiled a $6bn bond buyback, below Wall Street’s $8bn–$10bn expectations and leaving markets underwhelmed. The 10-year yield rose about 0.05 percentage points to just under 4.86%, its highest level since late 2023, before easing after a $39bn 10-year auction that cleared at 4.834% versus 4.683% at the prior sale. The programme swaps older, less-liquid issues for newer ones to support market liquidity rather than shrink net issuance, and critics argue it may not offset fiscal deficits, inflation pressure, and broader fundamentals. The Treasury was due to name eligible bonds and run the operation Thursday, with a 30-year auction next as another test of demand. Bessent told currency traders he holds “asymmetric information” and is “the house now,” underscoring a more assertive policy stance as borrowing costs stay elevated.",
   implications: [
-    "Near-$100 Brent raises near-term inflation, freight, and input-cost pressure for Ops & Finance planning across energy-intensive supply chains.",
-    "Strait of Hormuz and tanker-targeting risk keeps Gulf crude logistics and insurance premia elevated; dual-source and inventory buffers matter.",
-    "Saudi operational interruptions and Houthi strikes add upside volatility to oil and energy-linked credit, with spillover into bond-market risk appetite.",
-    "Higher multi-year crude forecasts (through 2027) support reviewing hedging windows, fuel surcharges, and discretionary travel/capex budgets.",
+    "Near-4.86% 10-year yields raise discount rates and refinancing costs for Ops & Finance planning on debt, leases, and long-duration projects.",
+    "A smaller-than-expected $6bn buyback signals limited near-term liquidity support; treat auction results and the 30-year sale as key confidence checks.",
+    "Higher cleared auction yields (4.834% vs 4.683%) point to sticky funding costs — revisit interest-rate assumptions in budgets and WACC models.",
+    "Fiscal-deficit and inflation concerns remain the bigger drivers than buybacks; keep scenario plans for further curve steepening and credit-spread moves.",
   ],
 } as const;
 
