@@ -2,19 +2,20 @@ export const ftTopStory = {
   heading: "FT top story",
   source: "Financial Times",
   headline:
-    "Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors",
+    "Global bond sell-off reignites as oil jumps to $109",
   standfirst:
-    "10-year borrowing costs hit highest level in nearly three years despite upsized repurchase programme",
-  authors: "Kate Duguid; George Steer; Myles McCormick",
-  dateLabel: "9 September 2026",
-  url: "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab",
+    "US yields reach highs of the day after Scott Bessent’s Treasury buyback operation undershoots its target",
+  authors:
+    "Myles McCormick; George Steer; Jamie Smyth; Kate Duguid; Emily Herbert; Ian Smith",
+  dateLabel: "10 September 2026",
+  url: "https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc",
   summary:
-    "US Treasury yields climbed toward three-year highs after Treasury Secretary Scott Bessent unveiled a $6bn bond buyback, below Wall Street’s $8bn–$10bn expectations and leaving markets underwhelmed. The 10-year yield rose about 0.05 percentage points to just under 4.86%, its highest level since late 2023, before easing after a $39bn 10-year auction that cleared at 4.834% versus 4.683% at the prior sale. The programme swaps older, less-liquid issues for newer ones to support market liquidity rather than shrink net issuance, and critics argue it may not offset fiscal deficits, inflation pressure, and broader fundamentals. The Treasury was due to name eligible bonds and run the operation Thursday, with a 30-year auction next as another test of demand. Bessent told currency traders he holds “asymmetric information” and is “the house now,” underscoring a more assertive policy stance as borrowing costs stay elevated.",
+    "US long-term borrowing costs hit their highest level in nearly two decades as oil climbed toward $109 a barrel and investors soured on the Treasury’s debt buyback. The 30-year yield rose as much as 0.08 percentage points to 5.37%, its highest since 2007, after the Treasury accepted only $5.2bn of offers against a $6bn buyback target; the 10-year yield jumped 0.11 points to 4.95% and the two-year rose 0.16 points to 4.58% as traders priced more Fed rate rises. A $22bn 30-year auction cleared at 5.308%, the highest since 2001, though demand remained firm. Brent settled 6.3% higher at $107.63 before trading near $109, with supply fears tied to Middle East conflict, a Houthi port seizure, and Saudi August output of 6.2mn b/d — the lowest monthly print of 2026 and 23% below July. Wholesale inflation also accelerated, with August PPI at 5.4% year on year versus 4.7% in July, while equities fell (S&P 500 −0.6%, Nasdaq 100 −0.9%). Strategists framed a “double whammy” of higher oil and rising term premia amid fiscal credibility concerns, including a proposed $5,000 adult dividend estimated to cost more than $1tn.",
   implications: [
-    "Near-4.86% 10-year yields raise discount rates and refinancing costs for Ops & Finance planning on debt, leases, and long-duration projects.",
-    "A smaller-than-expected $6bn buyback signals limited near-term liquidity support; treat auction results and the 30-year sale as key confidence checks.",
-    "Higher cleared auction yields (4.834% vs 4.683%) point to sticky funding costs — revisit interest-rate assumptions in budgets and WACC models.",
-    "Fiscal-deficit and inflation concerns remain the bigger drivers than buybacks; keep scenario plans for further curve steepening and credit-spread moves.",
+    "Near-5% 10-year and 5.37% 30-year yields lift discount rates and refinancing costs — revisit debt schedules, lease rates, and long-duration project IRR assumptions.",
+    "An undersubscribed $6bn buyback ($5.2bn accepted) is a weak liquidity signal; treat upcoming auctions and term-premium moves as near-term funding-risk markers.",
+    "Oil near $109 plus rising PPI (5.4%) point to sticky input and shipping costs — stress-test operating budgets and hedge coverage for energy-linked spend.",
+    "Fiscal headlines (>$1tn dividend proposal) and higher rate-rise odds argue for tighter WACC scenarios and closer monitoring of credit spreads and equity beta.",
   ],
 } as const;
 
