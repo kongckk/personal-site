@@ -2,20 +2,19 @@ export const ftTopStory = {
   heading: "FT top story",
   source: "Financial Times",
   headline:
-    "Global bond sell-off reignites as oil jumps to $109",
+    "Anthropic tells investors it will be profitable for second straight quarter",
   standfirst:
-    "US yields reach highs of the day after Scott Bessent’s Treasury buyback operation undershoots its target",
-  authors:
-    "Myles McCormick; George Steer; Jamie Smyth; Kate Duguid; Emily Herbert; Ian Smith",
-  dateLabel: "10 September 2026",
-  url: "https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc",
+    "Claude maker seeks to ease cash burn concerns before blockbuster IPO amid fears over pace of AI development",
+  authors: "George Hammond; James Fontanella-Khan",
+  dateLabel: "14 September 2026",
+  url: "https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002",
   summary:
-    "US long-term borrowing costs hit their highest level in nearly two decades as oil climbed toward $109 a barrel and investors soured on the Treasury’s debt buyback. The 30-year yield rose as much as 0.08 percentage points to 5.37%, its highest since 2007, after the Treasury accepted only $5.2bn of offers against a $6bn buyback target; the 10-year yield jumped 0.11 points to 4.95% and the two-year rose 0.16 points to 4.58% as traders priced more Fed rate rises. A $22bn 30-year auction cleared at 5.308%, the highest since 2001, though demand remained firm. Brent settled 6.3% higher at $107.63 before trading near $109, with supply fears tied to Middle East conflict, a Houthi port seizure, and Saudi August output of 6.2mn b/d — the lowest monthly print of 2026 and 23% below July. Wholesale inflation also accelerated, with August PPI at 5.4% year on year versus 4.7% in July, while equities fell (S&P 500 −0.6%, Nasdaq 100 −0.9%). Strategists framed a “double whammy” of higher oil and rising term premia amid fiscal credibility concerns, including a proposed $5,000 adult dividend estimated to cost more than $1tn.",
+    "Anthropic told a small group of shareholders that adjusted operating income would be positive for a second consecutive quarter, excluding items such as stock-based compensation, as it works to calm cash-burn worries ahead of a planned Nasdaq IPO. Gross margins reportedly exceed 80%, while revenue rose 14-fold year-on-year to $11.5bn in Q2 and annualised revenue reached $65bn by end-July, up from $9bn at year-end. Investors are forecasting about $120bn in annualised revenue by year-end, and the five-year-old company could list at a valuation of $2tn or more, though it has delayed publishing its prospectus while fielding investor questions. Scrutiny remains intense around AI safety, the scale of model-training costs, and whether a slower development pace — a stance Anthropic CEO Dario Amodei has urged, and that OpenAI’s Sam Altman and Elon Musk have publicly echoed — could let rivals close the gap.",
   implications: [
-    "Near-5% 10-year and 5.37% 30-year yields lift discount rates and refinancing costs — revisit debt schedules, lease rates, and long-duration project IRR assumptions.",
-    "An undersubscribed $6bn buyback ($5.2bn accepted) is a weak liquidity signal; treat upcoming auctions and term-premium moves as near-term funding-risk markers.",
-    "Oil near $109 plus rising PPI (5.4%) point to sticky input and shipping costs — stress-test operating budgets and hedge coverage for energy-linked spend.",
-    "Fiscal headlines (>$1tn dividend proposal) and higher rate-rise odds argue for tighter WACC scenarios and closer monitoring of credit spreads and equity beta.",
+    "Second straight positive adjusted operating income plus >80% gross margins ease burn concerns — reassess AI vendor credit risk and long-term SaaS/API spend commitments.",
+    "Annualised revenue at $65bn (end-July) with ~$120bn year-end forecasts implies aggressive scale; stress-test budget assumptions for Claude/API pricing and capacity availability.",
+    "A delayed prospectus ahead of a possible $2tn+ IPO signals valuation and disclosure risk — watch listing timing before treating Anthropic equity or related indices as near-term hedges.",
+    "CEO calls to slow AI development, echoed by peers, raise competitive and regulatory scenario risk — build contingency for delayed model releases and shifting safety compliance costs.",
   ],
 } as const;
 
