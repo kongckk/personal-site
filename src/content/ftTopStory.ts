@@ -2,19 +2,19 @@ export const ftTopStory = {
   heading: "FT top story",
   source: "Financial Times",
   headline:
-    "Anthropic tells investors it will be profitable for second straight quarter",
+    "Ten-year Treasury yield hits 5% for first time since 2023",
   standfirst:
-    "Claude maker seeks to ease cash burn concerns before blockbuster IPO amid fears over pace of AI development",
-  authors: "George Hammond; James Fontanella-Khan",
-  dateLabel: "14 September 2026",
-  url: "https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002",
+    "World’s most widely watched financial marker moves towards levels not seen in decades as inflation shock from Iran war lingers",
+  authors: "Kate Duguid (New York); Emily Herbert and Ian Smith (London)",
+  dateLabel: "15 September 2026",
+  url: "https://www.ft.com/content/06cb850d-089a-4318-88d7-a410e9766b89",
   summary:
-    "Anthropic told a small group of shareholders that adjusted operating income would be positive for a second consecutive quarter, excluding items such as stock-based compensation, as it works to calm cash-burn worries ahead of a planned Nasdaq IPO. Gross margins reportedly exceed 80%, while revenue rose 14-fold year-on-year to $11.5bn in Q2 and annualised revenue reached $65bn by end-July, up from $9bn at year-end. Investors are forecasting about $120bn in annualised revenue by year-end, and the five-year-old company could list at a valuation of $2tn or more, though it has delayed publishing its prospectus while fielding investor questions. Scrutiny remains intense around AI safety, the scale of model-training costs, and whether a slower development pace — a stance Anthropic CEO Dario Amodei has urged, and that OpenAI’s Sam Altman and Elon Musk have publicly echoed — could let rivals close the gap.",
+    "The 10-year US Treasury yield briefly reached 5.01%, its highest level since 2023, as oil-price gains and the Iran war shock intensified a global bond sell-off. Brent crude rose as high as $109.80 after Saudi Arabia closed a key pipeline, adding to inflation concerns alongside heavy government borrowing and debt issued to finance the AI boom. Higher Treasury yields raise mortgage and corporate borrowing costs, pressure indebted borrowers, and make bonds relatively more attractive than equities. Investors worry the move could disrupt AI financing and test the sustainability of the US’s $40tn debt pile. Traders expect the Federal Reserve to raise rates by 25 basis points, while analysts warn that continued oil-price increases could push yields higher and deepen global market stress.",
   implications: [
-    "Second straight positive adjusted operating income plus >80% gross margins ease burn concerns — reassess AI vendor credit risk and long-term SaaS/API spend commitments.",
-    "Annualised revenue at $65bn (end-July) with ~$120bn year-end forecasts implies aggressive scale; stress-test budget assumptions for Claude/API pricing and capacity availability.",
-    "A delayed prospectus ahead of a possible $2tn+ IPO signals valuation and disclosure risk — watch listing timing before treating Anthropic equity or related indices as near-term hedges.",
-    "CEO calls to slow AI development, echoed by peers, raise competitive and regulatory scenario risk — build contingency for delayed model releases and shifting safety compliance costs.",
+    "Budget for higher refinancing, working-capital and capex costs as the Treasury benchmark approaches or exceeds 5%.",
+    "Rising yields may challenge highly leveraged businesses and the economics of debt-funded AI and technology investment.",
+    "Monitor oil exposure and inflation pass-through, which could raise supplier, logistics and operating costs.",
+    "Expect broader global effects: UK 10-year gilt yields also reached their highest level since 2007, increasing borrowing pressure internationally.",
   ],
 } as const;
 
