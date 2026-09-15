@@ -2,19 +2,19 @@ export const ftTopStory = {
   heading: "FT top story",
   source: "Financial Times",
   headline:
-    "Ten-year Treasury yield hits 5% for first time since 2023",
+    "OpenAI weighs funding round at $1.2tn valuation before IPO",
   standfirst:
-    "World’s most widely watched financial marker moves towards levels not seen in decades as inflation shock from Iran war lingers",
-  authors: "Kate Duguid (New York); Emily Herbert and Ian Smith (London)",
-  dateLabel: "15 September 2026",
-  url: "https://www.ft.com/content/06cb850d-089a-4318-88d7-a410e9766b89",
+    "Sam Altman’s start-up could capitalise on demand for its technology after new model launches",
+  authors: "George Steer (New York); George Hammond (San Francisco)",
+  dateLabel: "16 September 2026",
+  url: "https://www.ft.com/content/27509db8-b032-4437-9b2a-e909f466022f",
   summary:
-    "The 10-year US Treasury yield briefly reached 5.01%, its highest level since 2023, as oil-price gains and the Iran war shock intensified a global bond sell-off. Brent crude rose as high as $109.80 after Saudi Arabia closed a key pipeline, adding to inflation concerns alongside heavy government borrowing and debt issued to finance the AI boom. Higher Treasury yields raise mortgage and corporate borrowing costs, pressure indebted borrowers, and make bonds relatively more attractive than equities. Investors worry the move could disrupt AI financing and test the sustainability of the US’s $40tn debt pile. Traders expect the Federal Reserve to raise rates by 25 basis points, while analysts warn that continued oil-price increases could push yields higher and deepen global market stress.",
+    "OpenAI has held early conversations with investors about raising another private funding round at a $1.2tn valuation ahead of its planned IPO, seeking to capitalise on renewed demand after recent model launches. The ChatGPT maker raised $122bn in March at an $852bn valuation and is discussing a fresh raise that could lift its value to about $1.2tn, though talks remain early-stage and the figure could change. Whether the round proceeds depends on IPO timing; CEO Sam Altman said a listing is unlikely before 2027 amid concerns about AI’s existential risks. Revenue growth has reaccelerated after GPT-5.6 and Astra launches, with annualised revenue passing $40bn last month after a 20% leap, following a slower start during which rival Anthropic reached a $965bn valuation. OpenAI confidentially filed its IPO prospectus in June but has pushed out the listing; SoftBank and Thrive Capital could increase exposure via a private round while waiting longer for IPO exits. The company spent $34bn last year on model training and “needs capital,” people familiar with the matter said, even as it insists March fundraising left ample resources; Anthropic is expected to go public as soon as October at around $2tn.",
   implications: [
-    "Budget for higher refinancing, working-capital and capex costs as the Treasury benchmark approaches or exceeds 5%.",
-    "Rising yields may challenge highly leveraged businesses and the economics of debt-funded AI and technology investment.",
-    "Monitor oil exposure and inflation pass-through, which could raise supplier, logistics and operating costs.",
-    "Expect broader global effects: UK 10-year gilt yields also reached their highest level since 2007, increasing borrowing pressure internationally.",
+    "Reassess AI vendor and infrastructure budgets as mega-round valuations and delayed IPOs reshape financing and pricing power across the sector.",
+    "Watch OpenAI vs Anthropic listing timelines — a faster Anthropic IPO could shift procurement leverage and competitive product roadmaps.",
+    "Treat heavy burn and private-capital dependence as counterparty and concentration risk for AI-critical operations and supplier stability.",
+    "Track funding news for signals on AI cost of capital and liquidity that may affect vendor pricing, contract terms, and secondary-market exits.",
   ],
 } as const;
 
