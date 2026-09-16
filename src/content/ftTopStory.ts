@@ -2,19 +2,20 @@ export const ftTopStory = {
   heading: "FT top story",
   source: "Financial Times",
   headline:
-    "OpenAI weighs funding round at $1.2tn valuation before IPO",
+    "Federal Reserve defies Donald Trump with first rate rise since 2023",
   standfirst:
-    "Sam Altman’s start-up could capitalise on demand for its technology after new model launches",
-  authors: "George Steer (New York); George Hammond (San Francisco)",
+    "President calls for 1% borrowing costs after US central bank signals willingness for further action to cool inflation",
+  authors:
+    "Claire Jones and Myles McCormick (Washington); Kate Duguid (New York)",
   dateLabel: "16 September 2026",
-  url: "https://www.ft.com/content/27509db8-b032-4437-9b2a-e909f466022f",
+  url: "https://www.ft.com/content/f5ce5c38-76e3-4212-8c60-4c868f6dee70",
   summary:
-    "OpenAI has held early conversations with investors about raising another private funding round at a $1.2tn valuation ahead of its planned IPO, seeking to capitalise on renewed demand after recent model launches. The ChatGPT maker raised $122bn in March at an $852bn valuation and is discussing a fresh raise that could lift its value to about $1.2tn, though talks remain early-stage and the figure could change. Whether the round proceeds depends on IPO timing; CEO Sam Altman said a listing is unlikely before 2027 amid concerns about AI’s existential risks. Revenue growth has reaccelerated after GPT-5.6 and Astra launches, with annualised revenue passing $40bn last month after a 20% leap, following a slower start during which rival Anthropic reached a $965bn valuation. OpenAI confidentially filed its IPO prospectus in June but has pushed out the listing; SoftBank and Thrive Capital could increase exposure via a private round while waiting longer for IPO exits. The company spent $34bn last year on model training and “needs capital,” people familiar with the matter said, even as it insists March fundraising left ample resources; Anthropic is expected to go public as soon as October at around $2tn.",
+    "The Federal Open Market Committee unanimously raised the federal funds rate by 25 basis points to 3.75–4%, the first increase since 2023, citing inflation that remains too high and risks from Middle East-related price shocks and an AI-component scramble. Chair Kevin Warsh said broad financial conditions were not restrictive and indicated the Fed was prepared to tighten further, directly contradicting Donald Trump’s demand for rates of 1% or less. Markets responded hawkishly: the two-year Treasury yield rose 7 basis points to 4.74%, the dollar index gained 0.74%, and futures priced almost a 90% chance of another increase before year-end. PCE inflation is 3.7% against the Fed’s 2% target, and projections showed 12 officials expecting another quarter-point rise in 2026, with four forecasting two further increases. Despite Warsh’s positive assessment of hiring, earnings and capital investment, policymakers do not expect inflation to reach 2% until 2029, reinforcing expectations that borrowing costs may stay higher for longer.",
   implications: [
-    "Reassess AI vendor and infrastructure budgets as mega-round valuations and delayed IPOs reshape financing and pricing power across the sector.",
-    "Watch OpenAI vs Anthropic listing timelines — a faster Anthropic IPO could shift procurement leverage and competitive product roadmaps.",
-    "Treat heavy burn and private-capital dependence as counterparty and concentration risk for AI-critical operations and supplier stability.",
-    "Track funding news for signals on AI cost of capital and liquidity that may affect vendor pricing, contract terms, and secondary-market exits.",
+    "Reprice borrowing, refinancing, and working-capital plans for a higher-for-longer path after the first hike since 2023 and strong odds of another before year-end.",
+    "Watch dollar strength and two-year yields for FX, hedging, and input-cost pressure on Ops budgets and cross-border contracts.",
+    "Treat Middle East and AI-component supply shocks as persistent inflation risks that can keep policy tight into 2027–2029.",
+    "Separate White House rate demands from FOMC signals when forecasting financing costs and investment timing.",
   ],
 } as const;
 
