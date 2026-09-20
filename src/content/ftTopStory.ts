@@ -2,19 +2,19 @@ export const ftTopStory = {
   heading: "FT top story",
   source: "Financial Times",
   headline:
-    "Turkish authorities rush to stem fallout from stock market scandal",
+    "German chancellor Merz vows to stay on despite ‘disaster’ in regional elections",
   standfirst:
-    "Funds frozen or liquidated and 38 people referred to prosecutors as regulators move to restore calm",
-  authors: "John Paul Rathbone (Istanbul)",
-  dateLabel: "17 September 2026",
-  url: "https://www.ft.com/content/ef54585a-4d2f-4538-b185-9bff75ef2f5e",
+    "Partial results suggest CDU is set to fail to secure parliamentary representation in Mecklenburg-Vorpommern",
+  authors: "Anne-Sylvaine Chassany and Laura Pitel in Berlin",
+  dateLabel: "21 September 2026",
+  url: "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3",
   summary:
-    "Turkish authorities have frozen trading in funds run by seven asset managers and ordered about 130 funds to be liquidated after a speculative bubble shook the Istanbul stock market and threatened retail savings. The central bank eased lira liquidity to limit forced selling, a state-owned bank opened talks to buy two savings-finance companies tied to the turmoil, and the capital markets regulator referred 38 people to prosecutors for suspected manipulation, with senior figures at Pusula, Tera, Hedef and Destek taken into custody or arrested. The shakeout is awkward for finance minister Mehmet Şimşek’s stabilisation programme: the BIST 100 fell a combined 8% over Tuesday–Wednesday before rebounding 3% on Thursday, and the Financial Stability Committee said the problem was concentrated, temporary and manageable while focusing on liquidity and contagion. The trigger was a fund run after Pusula Portföy said some funds could not meet redemptions on time; Tera and Atlas also faced redemption delays, with the three groups managing roughly $29bn. Concentrated fund buying in thinly traded affiliated stocks had inflated NAVs and attracted more inflows until MSCI warned of possible co-ordinated trading, S&P Dow Jones reviewed Turkey for a possible frontier downgrade, and local rules tightened.",
+    "German Chancellor Friedrich Merz vowed on Sunday to stay in office and press ahead with economic reforms after heavy losses for his Christian Democratic Union in regional elections, calling the Mecklenburg-Vorpommern result a “disaster.” Partial counts put the CDU just below the 5% Landtag threshold there—its lowest state-election showing in postwar German history—while the far-right AfD was set to finish first at about 38%, more than doubling its prior share. The setback comes two weeks after the AfD’s shock win in Saxony-Anhalt, where it is trying to form its first regional government, and risks emboldening CDU critics who see Merz’s record unpopularity as grounds for a leadership change. In Berlin, the CDU was projected to fall to second place at 19%, with hard-left Die Linke surging to first on a platform that includes expropriating property from corporate landlords. Merz argued the backlash was a reaction to necessary reforms needed for “prosperity,” convened party heavyweights to shore up loyalty, and insisted the reforms require backbone and patience.",
   implications: [
-    "Treat Turkey EM equity, fund, and FX exposure as elevated contagion risk while freezes, liquidations, and custody actions play out.",
-    "Watch Şimşek’s Financial Stability Committee liquidity and bailout steps for signals on whether retail savings vehicles stay ring-fenced from the fund blow-up.",
-    "Reassess counterparties and NAV reliability in concentrated Turkish fund/stock structures after MSCI and S&P Dow Jones scrutiny.",
-    "Price political–market interaction: emergency FS committee meetings have followed opposition shocks and Iran-war volatility; expect further policy intervention if the rebound fades.",
+    "Price elevated German political risk: another AfD breakthrough and a near-wipeout for the governing CDU raise odds of leadership turmoil and policy discontinuity.",
+    "Watch Merz’s reform path—tax, spending, and labour measures tied to “prosperity”—for delays or dilution if party unrest intensifies.",
+    "Reassess Berlin real-estate and landlord exposure as Die Linke’s projected first-place finish strengthens expropriation and rent-control politics in the capital.",
+    "Treat further East German AfD gains (after Saxony-Anhalt) as a structural euro-area political premium for bunds, banks, and German equity risk.",
   ],
 } as const;
 
