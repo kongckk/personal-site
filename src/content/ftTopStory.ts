@@ -2,19 +2,19 @@ export const ftTopStory = {
   heading: "FT top story",
   source: "Financial Times",
   headline:
-    "German chancellor Merz vows to stay on despite ‘disaster’ in regional elections",
+    "Kremlin-backed forgery scheme moved $6.9bn through global banks",
   standfirst:
-    "Partial results suggest CDU is set to fail to secure parliamentary representation in Mecklenburg-Vorpommern",
-  authors: "Anne-Sylvaine Chassany and Laura Pitel in Berlin",
-  dateLabel: "21 September 2026",
-  url: "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3",
+    "FT finds thousands of Russian payments received by Standard Chartered, Citigroup and other international groups in vast leak from inside fintech A7",
+  authors: "Anne-Sylvaine Chassany, Chris Cook and Anastasia Stognei",
+  dateLabel: "22 September 2026",
+  url: "https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1",
   summary:
-    "German Chancellor Friedrich Merz vowed on Sunday to stay in office and press ahead with economic reforms after heavy losses for his Christian Democratic Union in regional elections, calling the Mecklenburg-Vorpommern result a “disaster.” Partial counts put the CDU just below the 5% Landtag threshold there—its lowest state-election showing in postwar German history—while the far-right AfD was set to finish first at about 38%, more than doubling its prior share. The setback comes two weeks after the AfD’s shock win in Saxony-Anhalt, where it is trying to form its first regional government, and risks emboldening CDU critics who see Merz’s record unpopularity as grounds for a leadership change. In Berlin, the CDU was projected to fall to second place at 19%, with hard-left Die Linke surging to first on a platform that includes expropriating property from corporate landlords. Merz argued the backlash was a reaction to necessary reforms needed for “prosperity,” convened party heavyweights to shore up loyalty, and insisted the reforms require backbone and patience.",
+    "An FT exclusive based on a vast leak from inside Kremlin-backed fintech A7 shows the group funnelled more than $6.9bn through the international banking system between late 2024 and August 2025 by pairing front companies with industrial-scale forged invoices and corporate stamps. Accounts at Standard Chartered in Hong Kong alone received $1.1bn from A7-linked entities; DBS Hong Kong was sent $273mn, Citigroup clients $74mn, and Deutsche Bank clients about $18mn, while First Abu Dhabi accounts tied to A7 made more than $1.8bn of outbound payments. A7 was set up in Russia and Kyrgyzstan by Moldovan oligarch Ilan Shor with support from defence-linked state bank Promsvyazbank as a sanctions-resistant alternative to Swift, and some flows covered sensitive war-related goods including military equipment. After Standard Chartered raised suspicions and closed accounts in early 2025, volumes shifted toward UAE routing; banks named either said linked accounts were already closed or declined detailed comment while stressing AML commitments. Analysts say the leak shows how beating one Swift member bank’s controls can reopen correspondent rails—and that A7’s money-laundering network is far larger than previously understood.",
   implications: [
-    "Price elevated German political risk: another AfD breakthrough and a near-wipeout for the governing CDU raise odds of leadership turmoil and policy discontinuity.",
-    "Watch Merz’s reform path—tax, spending, and labour measures tied to “prosperity”—for delays or dilution if party unrest intensifies.",
-    "Reassess Berlin real-estate and landlord exposure as Die Linke’s projected first-place finish strengthens expropriation and rent-control politics in the capital.",
-    "Treat further East German AfD gains (after Saxony-Anhalt) as a structural euro-area political premium for bunds, banks, and German equity risk.",
+    "Reassess AML, trade-finance, and invoice-authenticity controls on HK, UAE, Kyrgyz, and EU corridors that touch Russian-linked payment intermediaries.",
+    "Expect heightened supervisory and sanctions scrutiny for named banks (StanChart, Citi, DBS, Deutsche, FAB, JPMorgan) and their correspondent relationships.",
+    "Price elevated compliance and reputational risk where Swift access depends on sending-bank KYC that industrial forgery can defeat.",
+    "Watch for further account closures, SAR/STR waves, and secondary-sanctions spillover as authorities map A7 front companies across UAE, Hong Kong, and Hungary.",
   ],
 } as const;
 
