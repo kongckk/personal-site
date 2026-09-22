@@ -2,19 +2,19 @@ export const ftTopStory = {
   heading: "FT top story",
   source: "Financial Times",
   headline:
-    "Kremlin-backed forgery scheme moved $6.9bn through global banks",
+    "US and Iran hold first talks since June as Donald Trump threatens ‘annihilation’",
   standfirst:
-    "FT finds thousands of Russian payments received by Standard Chartered, Citigroup and other international groups in vast leak from inside fintech A7",
-  authors: "Anne-Sylvaine Chassany, Chris Cook and Anastasia Stognei",
-  dateLabel: "22 September 2026",
-  url: "https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1",
+    "President says Steve Witkoff and Jared Kushner had ‘good meeting’ with Iranian delegation on the sidelines of the UN gathering",
+  authors: "Abigail Hauslohner, Andrew England and Bita Ghaffari",
+  dateLabel: "23 September 2026",
+  url: "https://www.ft.com/content/1434496d-0eaf-4270-8ad3-87724cd3721e",
   summary:
-    "An FT exclusive based on a vast leak from inside Kremlin-backed fintech A7 shows the group funnelled more than $6.9bn through the international banking system between late 2024 and August 2025 by pairing front companies with industrial-scale forged invoices and corporate stamps. Accounts at Standard Chartered in Hong Kong alone received $1.1bn from A7-linked entities; DBS Hong Kong was sent $273mn, Citigroup clients $74mn, and Deutsche Bank clients about $18mn, while First Abu Dhabi accounts tied to A7 made more than $1.8bn of outbound payments. A7 was set up in Russia and Kyrgyzstan by Moldovan oligarch Ilan Shor with support from defence-linked state bank Promsvyazbank as a sanctions-resistant alternative to Swift, and some flows covered sensitive war-related goods including military equipment. After Standard Chartered raised suspicions and closed accounts in early 2025, volumes shifted toward UAE routing; banks named either said linked accounts were already closed or declined detailed comment while stressing AML commitments. Analysts say the leak shows how beating one Swift member bank’s controls can reopen correspondent rails—and that A7’s money-laundering network is far larger than previously understood.",
+    "US envoys Steve Witkoff and Jared Kushner held the first direct talks with Iranian counterparts since late June on the sidelines of the UN General Assembly, with Iranian state TV saying Foreign Minister Abbas Araghchi attended; Donald Trump called the meeting “very good,” promised further talks “in the near future,” and framed Tehran’s choice as “potential greatness or obliteration,” threatening to “annihilate the Islamic republic” if it refused a rebuild deal. The conflict has already driven a global energy crisis and wider Middle East violence, while Washington threatens sanctions on air-service providers in countries where Iranian airlines operate—Oman and Iraq said they were preparing to stop receiving those flights. Diesel in the US has hit a record average of $6.50 a gallon, per AAA, as the war isolates Washington internationally and pushes Trump’s domestic approval to new lows. Trump predicted a peace deal “right after” November’s midterms, dismissed munitions-stockpile warnings as the talk of “cowards and traitors,” and in a 33-minute UN speech claimed to have ended “eight wars,” hailed Venezuela’s overthrow, and threatened possible military action against Mexico, Cuba and others—drawing a walkout by Cuban delegates and a rebuke from UN Secretary-General António Guterres that “military power alone cannot secure peace.”",
   implications: [
-    "Reassess AML, trade-finance, and invoice-authenticity controls on HK, UAE, Kyrgyz, and EU corridors that touch Russian-linked payment intermediaries.",
-    "Expect heightened supervisory and sanctions scrutiny for named banks (StanChart, Citi, DBS, Deutsche, FAB, JPMorgan) and their correspondent relationships.",
-    "Price elevated compliance and reputational risk where Swift access depends on sending-bank KYC that industrial forgery can defeat.",
-    "Watch for further account closures, SAR/STR waves, and secondary-sanctions spillover as authorities map A7 front companies across UAE, Hong Kong, and Hungary.",
+    "Price elevated energy and freight risk: record US diesel and Middle East disruption raise logistics, refining, and CPI pass-through for Ops & Finance planning.",
+    "Watch secondary-sanctions and aviation corridors—threats against air-service providers serving Iranian airlines (and Oman/Iraq flight stops) can strand crew, cargo, and insurance cover.",
+    "Treat near-term diplomacy as unstable: talks resumed but Trump’s annihilation rhetoric and midterm-timed “deal after election” framing leave policy and market volatility high through November.",
+    "Reassess geopolitical contingency for Gulf energy, FX, and equity books given UN-stage escalation toward Mexico, Cuba, and other theatres alongside Iran.",
   ],
 } as const;
 
